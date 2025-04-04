@@ -1,0 +1,23 @@
+# Diretório de build (gerado pelo cargo)
+target/
+
+# Arquivos de build específicos da IDE
+**/*.rs.bk
+
+# Backups de editores
+*.swp
+*.swo
+*~
+*.bak
+
+# Arquivos de lock de editores
+.idea/
+.vscode/
+*.log
+
+# Arquivos de dependência (só se você quiser evitar cache local)
+Cargo.lock
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
