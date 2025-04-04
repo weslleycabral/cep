@@ -1,5 +1,6 @@
 # Diretório de build (gerado pelo cargo)
 target/
+/target
 
 # Arquivos de build específicos da IDE
 **/*.rs.bk
